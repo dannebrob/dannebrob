@@ -77,5 +77,9 @@ Hör av dig via GitHub eller LinkedIn.
 ---
 
 ## 🧭 Filosofi
-> “Stabila nätverk byggs med struktur, tydlighet och nyfikenhet.”  
-Jag tror på att kombinera **teknisk precision** med **praktisk enkelhet** — och att alltid dokumentera så att nästa person (eller jag själv om tre månader) förstår exakt vad som gjorts och varför.
+> “Lämna alltid dokumentationen lite bättre än du fann den.”
+
+Jag tror på att bygga nätverk och system som är lika tydliga att förstå som de är stabila att drifta.  
+Varje konfiguration, varje commit och varje topologi är en chans att skapa ordning, minska framtida felsökning och göra livet enklare för nästa tekniker — eller för mig själv om några månader.  
+
+Små förbättringar, konsekvent genomförda, skapar robusta miljöer.
