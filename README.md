@@ -46,19 +46,7 @@ Innehåller:
 - Dokumentation i NetBox  
 - Incident‑scenarier och felsökningsloggar  
 
-### 🤖 **Network Automation Toolkit**
-Samling av Ansible‑playbooks för:
-- Backup  
-- VLAN‑deployment  
-- Interface‑templates  
-- Grundläggande routingkonfiguration  
-
-### 🔐 **Network Security Lab**
-Praktiska exempel på:
-- ACL‑design  
-- DAI, DHCP snooping  
-- Port‑security  
-- Segmentering
+### 🔜 Snart kommer även ansible playbooks och brandväggs projekt! 
 
 ---
 
