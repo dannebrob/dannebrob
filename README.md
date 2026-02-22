@@ -60,7 +60,8 @@ Innehåller:
 
 ## 📫 Kontakt
 Vill du diskutera nätverk, automation eller samarbeten?  
-Hör av dig via GitHub eller LinkedIn.
+Hör av dig via GitHub eller [LinkedIn](https://www.linkedin.com/in/danielbroback/).
+
 
 ---
 
