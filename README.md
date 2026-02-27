@@ -1,8 +1,7 @@
-# 👋 Hej, jag är Daniel — Nätverkstekniker & IT-konsult
+# 👋Jag är Daniel — IT‑konsult med djup kompetens inom nätverksdrift och moderna Cisco‑miljöer.
 
-Jag arbetar som IT- och nätverkstekniker med fokus på **Cisco‑miljöer, routing & switching, säkerhet och automation**.  
+Jag arbetar dagligen med routing, switching, säkerhet och automatisering, där jag kombinerar praktisk erfarenhet med strukturerad felsökning och lösningsdesign för komplexa IT‑miljöer.
 Jag brinner för att bygga **stabila, skalbara och väl­dokumenterade nätverk** — både i produktion och i avancerade labbmiljöer.
-
 Min styrka ligger i att kombinera **praktisk felsökning**, **metodiskt arbetssätt** och **automation** för att skapa lösningar som är robusta, reproducerbara och enkla att förvalta.
 
 ---
