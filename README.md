@@ -43,9 +43,10 @@ Innehåller:
 - Säkerhetsfunktioner  
 - Automatiserad provisionering  
 - Dokumentation i NetBox  
-- Incident‑scenarier och felsökningsloggar  
+- Incident‑scenarier och felsökningsloggar
 
-### 🔜 Snart kommer även ansible playbooks och brandväggs projekt! 
+### 🛸 **Bitsize labs**
+Mindre labbar för att testa koncept och lära mig nya verktyg. Kommer forsätta fyllas med allt som är intressant!
 
 ---
 
